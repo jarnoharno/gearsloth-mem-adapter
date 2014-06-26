@@ -17,5 +17,13 @@
   "author": "Jarno Leppänen <jarno.leppanen@iki.fi>",
   "license": "MIT",
   "homepage": "https://github.com/jlep/gearsloth-mem-adapter",
-  "main": "./index.js"
+  "main": "./index.js",
+  "devDependencies": {
+    "mocha": "*",
+    "sinon": "*",
+    "chai": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
 }
