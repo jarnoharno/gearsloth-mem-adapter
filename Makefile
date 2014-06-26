@@ -12,5 +12,5 @@ node_modules: package.json
 	touch $@
 
 .PHONY: clean
-clean: clean-docker
-	-rm -rf node_modules
+clean:
+	rm -rf node_modules
