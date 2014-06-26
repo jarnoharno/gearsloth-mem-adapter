@@ -1,0 +1,21 @@
+{
+  "name": "gearsloth-mem-adapter",
+  "version": "0.0.1",
+  "description": "In-memory database adapter for gearsloth",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jlep/gearsloth-mem-adapter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlep/gearsloth-mem-adapter/issues"
+  },
+  "keywords": [
+    "gearman",
+    "gearsloth",
+    "adapter"
+  ],
+  "author": "Jarno Leppänen <jarno.leppanen@iki.fi>",
+  "license": "MIT",
+  "homepage": "https://github.com/jlep/gearsloth-mem-adapter",
+  "main": "./index.js"
+}
